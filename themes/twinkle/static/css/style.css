@@ -91,6 +91,9 @@ p {
 .post-body p {
   margin: 1rem 0;
 }
+td {
+  vertical-align: top;
+}
 h1 {
   font-size: var(--fs-1);
 }

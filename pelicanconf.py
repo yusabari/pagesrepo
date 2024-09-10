@@ -82,3 +82,6 @@ LINKS = (
 # OG METADATA
 OG_TITLE = SITENAME
 OG_DESCRIPTION = AUTHOR_INFO["DESCRIPTION"]
+
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+ARTICLE_URL = '{category}/{slug}.html'
