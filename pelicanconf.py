@@ -67,8 +67,8 @@ LINKS = (
     ("home", "https://yusabari.com", "fontawesome"),
     #("velog", "https://velog.io/@developer_khj", "image"),
     ("github", "https://github.com/yusabari", "image"),
-    ("gmail", "mailto:yumesaki.kr@gmail.com", "image"),
-    ("twitter", "https://twitter.com/yusabari", "image")
+    ("gmail", "mailto:yumesaki.kr@gmail.com", "image")
+#    ("twitter", "https://twitter.com/yusabari", "image")
 )
 
 # LINKS = (("twitter", "<img src=\"https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg\">", "image"))
