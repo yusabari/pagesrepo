@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>yusabari blog - Coding</title><link href="https://yusabari.com/" rel="alternate"></link><link href="https://yusabari.com/feeds/coding.atom.xml" rel="self"></link><id>https://yusabari.com/</id><updated>2024-09-10T10:56:00+09:00</updated><entry><title>Pelican을 이용한 블로그</title><link href="https://yusabari.com/coding/first-article.html" rel="alternate"></link><published>2024-09-10T10:56:00+09:00</published><updated>2024-09-10T10:56:00+09:00</updated><author><name>yusabari</name></author><id>tag:yusabari.com,2024-09-10:/coding/first-article.html</id><summary type="html">&lt;p&gt;Pelican을 이용한 블로그&lt;/p&gt;</summary><content type="html">&lt;h1&gt;테스트 제목&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;제목&lt;/th&gt;
+&lt;th&gt;내용&lt;/th&gt;
+&lt;th&gt;설명&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;테스트1&lt;/td&gt;
+&lt;td&gt;테스트2&lt;/td&gt;
+&lt;td&gt;테스트3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;테스트1&lt;/td&gt;
+&lt;td&gt;테스트2&lt;/td&gt;
+&lt;td&gt;테스트3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;테스트1&lt;/td&gt;
+&lt;td&gt;테스트2&lt;/td&gt;
+&lt;td&gt;테스트3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img alt="테스트" src="https://yusabari.com/coding/images/test.png"&gt;&lt;/p&gt;</content><category term="Coding"></category><category term="Pelican"></category></entry></feed>
